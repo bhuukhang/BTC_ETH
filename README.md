@@ -24,7 +24,8 @@ CSV → HDFS → Hive → PostgreSQL → Power BI
 
 ## Xây dựng quy trình
 
-![Quy trình dự án](images/Screenshot 2026-04-28 113811.png)
+![Quy trình dự án](images/Screen<img width="767" height="400" alt="Screenshot 2026-04-28 113811" src="https://github.com/user-attachments/assets/f2b853a3-492f-41e7-806e-2ab71b123aa1" />
+shot 2026-04-28 113811.png)
 
 ## Nội dung phân tích
 - Hiệu suất giá  
