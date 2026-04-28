@@ -23,6 +23,7 @@ CSV → HDFS → Hive → PostgreSQL → Power BI
 - SQL
 
 ## Xây dựng quy trình
+
 ![Quy trình dự án](images/Screenshot 2026-04-28 113811.png)
 
 ## Nội dung phân tích
