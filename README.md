@@ -1,7 +1,12 @@
 # XÂY DỰNG QUY TRÌNH TỰ ĐỘNG HÓA (END TO END) PHỤC VỤ PHÂN TÍCH VÀ TRỰC QUAN HÓA DỮ LIỆU BTC VÀ ETH TRÊN POWER BI 
 
 ## Tổng quan
-Dự án xây dựng quy trình tự động hóa để thu thập, xử lý và phân tích dữ liệu của Bitcoin (BTC) và Ethereum (ETH).
+Đồ án tập trung xây dựng một quy trình xử lý dữ liệu lớn hoàn chỉnh cho bộ 
+dữ liệu BTC & ETH Hourly Market Metrics (2017–2026), với mục tiêu tổ chức 
+dữ liệu từ đầu vào đến đầu ra theo hướng tự động hóa. Toàn bộ hệ thống được 
+triển khai trên nhiều công nghệ khác nhau, bao gồm Docker, HDFS, Hive, 
+PostgreSQL, Power BI và Airflow, giúp hình thành một pipeline dữ liệu rõ ràng, 
+đồng bộ và có khả năng vận hành ổn định.
 
 ## Quy trình xử lý
 CSV → HDFS → Hive → PostgreSQL → Power BI
@@ -18,7 +23,7 @@ CSV → HDFS → Hive → PostgreSQL → Power BI
 - SQL
 
 ## Xây dựng quy trình
-
+!(images/Screenshot 2026-04-28 113811.png)
 
 ## Nội dung phân tích
 - Hiệu suất giá
