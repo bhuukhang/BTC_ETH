@@ -1,4 +1,4 @@
-# Dự án Phân tích dữ liệu BTC & ETH
+# XÂY DỰNG QUY TRÌNH TỰ ĐỘNG HÓA (END TO END) PHỤC VỤ PHÂN TÍCH VÀ TRỰC QUAN HÓA DỮ LIỆU BTC VÀ ETH TRÊN POWER BI 
 
 ## Tổng quan
 Dự án xây dựng quy trình tự động hóa để thu thập, xử lý và phân tích dữ liệu của Bitcoin (BTC) và Ethereum (ETH).
