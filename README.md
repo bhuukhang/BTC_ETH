@@ -23,10 +23,10 @@ CSV → HDFS → Hive → PostgreSQL → Power BI
 - SQL
 
 ## Xây dựng quy trình
-!(images/Screenshot 2026-04-28 113811.png)
+![Quy trình dự án](images/Screenshot 2026-04-28 113811.png)
 
 ## Nội dung phân tích
-- Hiệu suất giá
+- Hiệu suất giá  
 - Xu hướng thanh khoản
 - Chỉ số rủi ro thị trường
 
